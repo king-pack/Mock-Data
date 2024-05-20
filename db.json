@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "id": 1, "name": "Juan" },
+    { "id": 2, "name": "Miguel" },
+  ],
+  "accounts": [
+    { "id": 1, "accountNo": "123", "balance": 500, "userId": 1 },
+    { "id": 2, "accountNo": "456", "balance": 100, "userId": 2 },
+  ],
+  "transactions": {
+    "accountId": 1
+    "userId": 1
+    "transactionId": 1
+    "description": "G-cash transfer"
+    "amount": 100
+  }
+}
